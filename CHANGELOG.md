@@ -1,8 +1,16 @@
-# Change Log - lage
+# Change Log - l-other-data
 
-This log was last generated on Thu, 03 Mar 2022 22:42:29 GMT and should not be manually modified.
+This log was last generated on Wed, 23 Mar 2022 08:32:26 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 1.6.0
+
+Wed, 23 Mar 2022 08:32:26 GMT
+
+### Minor changes
+
+- Add taskGraph to profileData ("ronakjain@microsoft.com")
 
 ## 1.5.1
 

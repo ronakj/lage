@@ -1,6 +1,21 @@
 {
-  "name": "lage",
+  "name": "l-other-data",
   "entries": [
+    {
+      "date": "Wed, 23 Mar 2022 08:32:26 GMT",
+      "tag": "l-other-data_v1.6.0",
+      "version": "1.6.0",
+      "comments": {
+        "minor": [
+          {
+            "author": "\"ronakjain@microsoft.com\"",
+            "package": "l-other-data",
+            "comment": "Add taskGraph to profileData",
+            "commit": "0b31e2c49e8172470ba2a6eb5952740d87af4140"
+          }
+        ]
+      }
+    },
     {
       "date": "Mon, 14 Mar 2022 22:04:24 GMT",
       "tag": "lage_v1.5.1",
